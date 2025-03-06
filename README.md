@@ -1,4 +1,4 @@
-# Comparison-of-our-and-Author-Results
+# Comparison of our and Author Results
 
 
 
